@@ -1,0 +1,45 @@
+html {
+    font-size: 62.5%;
+}
+body {
+    background-color: #f5f3f3
+}
+h1 {
+    text-align: center;
+}
+h2 {
+    font-size: 3rem;
+}
+h4 {
+    font-size: 16px;
+    font-weight: 700;
+}
+header {
+    padding: 20px 0 0 0;
+    background: white;
+    text-align: center;
+}
+
+.bg-header{
+    background-image: url(../img/hero.jpg);
+   
+}
+
+.logo{
+    
+}
+
+.gb-carrito{
+    background-color: blue;
+}
+
+
+.titulo{
+    text-align: left;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    color: aqua;
+}
+
+.nav-principal{
+    
+}
